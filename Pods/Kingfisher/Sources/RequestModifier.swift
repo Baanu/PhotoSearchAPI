@@ -2,9 +2,9 @@
 //  RequestModifier.swift
 //  Kingfisher
 //
-//  Created by Wei Wang on 2019/09/05.
+//  Created by Wei Wang on 2016/09/05.
 //
-//  Copyright (c) 2017 Wei Wang <onevcat@gmail.com>
+//  Copyright (c) 2018 Wei Wang <onevcat@gmail.com>
 //
 //  Permission is hereby granted, free of charge, to any person obtaining a copy
 //  of this software and associated documentation files (the "Software"), to deal

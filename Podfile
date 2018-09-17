@@ -6,9 +6,9 @@ target 'FlickrSearch' do
   use_frameworks!
 
   # Pods for FlickrSearch
-  pod 'Kingfisher', '~> 3.0'
-  pod 'Alamofire', '~> 4.4'
-  pod 'SVProgressHUD', :git => 'https://github.com/SVProgressHUD/SVProgressHUD.git'
+  pod 'Kingfisher'
+  pod 'Alamofire'
+  pod 'SVProgressHUD'
 
   target 'FlickrSearchTests' do
     inherit! :search_paths
